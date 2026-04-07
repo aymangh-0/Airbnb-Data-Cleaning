@@ -27,7 +27,7 @@ Data cleaning and analysis project on a large Airbnb NYC dataset containing
 |------|-------------|
 | `data.ipynb` | Jupyter Notebook with full cleaning steps |
 | `clean_data_without_index.csv` | Cleaned dataset |
-| `dashboard.png` | Tableau dashboard screenshot |
+| `Dashboard_1.png` | Tableau dashboard screenshot |
 
 ## Tools Used
 - Python — Pandas
