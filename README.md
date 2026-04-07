@@ -1,7 +1,7 @@
 # 🧹 Airbnb Data Cleaning & Analysis — Python & Tableau
 
 ## Dashboard Preview
-![Dashboard](Dashboard_1.png)
+![Dashboard](Dashboard%201.png)
 
 ## Overview
 Data cleaning and analysis project on a large Airbnb NYC dataset containing
